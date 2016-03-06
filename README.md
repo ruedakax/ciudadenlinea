@@ -1,6 +1,6 @@
 # ciudadenlinea
 
-La prueba fue desarrollada usando el framework CodeIgniter Version 3.0.4. Para efectos de claridad solo se encuentran en este reporsitorio los archivos específicos relacionados a la aplicación (MVC) además de la carpeta **assets** que incluye los estilos utilizados en el front-end. La estructura de carpetas de este repositorio mantiene identica forma a la presnetada en el framework. 
+La prueba fue desarrollada usando el framework CodeIgniter Version 3.0.4. Para efectos de claridad solo se encuentran en este reporsitorio los archivos específicos relacionados a la aplicación (MVC) además de la carpeta **assets** que incluye los estilos utilizados en el front-end. La estructura de carpetas de este repositorio mantiene identica forma a la presentada por el framework mencionado. 
 
 Para ambientes linux solo se requiere poner los archivos en la estructura definida y modificar el archivo de configuración con los datos de acceso a la base de datos.
 
